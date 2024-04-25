@@ -1,5 +1,5 @@
 ---
-name: Vercel Postgres + Nuxt Starter
+name: (Forked from) Vercel Postgres + Nuxt Starter
 slug: postgres-nuxt
 description: Simple Nuxt template that uses Vercel Postgres as the database.
 framework: Nuxt
@@ -15,6 +15,8 @@ relatedTemplates:
 ---
 
 # Nuxt 3 Minimal Starter
+
+Run it here [Live App] (https://postgres-nuxt-plain.vercel.app/) to test
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
